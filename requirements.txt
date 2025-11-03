@@ -1,0 +1,7 @@
+pandas
+bs4
+pydantic
+tqdm
+playwright
+playwright-stealth==1.0.6
+

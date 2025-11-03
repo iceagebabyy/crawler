@@ -1,0 +1,14 @@
+
+__pycache__/
+*.py[cod]
+
+# logs
+data/
+*.log
+
+
+venv/
+.env/
+
+.idea/
+*.iml
