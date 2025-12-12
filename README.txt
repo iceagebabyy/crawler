@@ -1,4 +1,4 @@
-pierdolenie się z playwright_stealth
+playwright_stealth
 
 musi być wersja 1.0.6
 daj update
